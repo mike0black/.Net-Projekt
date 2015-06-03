@@ -1,0 +1,1 @@
+D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\FeedReader.csproj;neutral

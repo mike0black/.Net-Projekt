@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KOMP-DOM-JKB</Machine>
+    <WindowsUser>Ogólne</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>41286a7e-b038-4bbd-a126-503660d9d44a</PackageIdentityName>
+    <IntermediateOutputPath>D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6A9E64AB17556D63DF352508B95D42315DACA45B1D1D737AFF81D9EFFC456F4F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>41286a7e-b038-4bbd-a126-503660d9d44a_1.0.0.0_neutral__2t78wa0s814s6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>41286a7e-b038-4bbd-a126-503660d9d44a_2t78wa0s814s6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>41286a7e-b038-4bbd-a126-503660d9d44a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ogólne</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-02T22:36:13.694</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\FeedReader.exe">
+      <PackagePath>FeedReader.exe</PackagePath>
+      <Modified>2015-06-02T23:52:08.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-02T23:52:07.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\DetailPage.xbf">
+      <PackagePath>DetailPage.xbf</PackagePath>
+      <Modified>2015-06-02T23:52:07.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2015-06-02T23:52:07.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2015-06-02T23:21:15.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\FeedReader.xr.xml">
+      <PackagePath>FeedReader.xr.xml</PackagePath>
+      <Modified>2015-06-02T23:47:25.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-02T22:36:13.481</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

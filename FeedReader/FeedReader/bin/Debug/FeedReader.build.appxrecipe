@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KOMP-DOM-JKB</Machine>
+    <WindowsUser>Ogólne</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>41286a7e-b038-4bbd-a126-503660d9d44a</PackageIdentityName>
+    <IntermediateOutputPath>D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\FeedReader.exe">
+      <PackagePath>FeedReader.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\DetailPage.xbf">
+      <PackagePath>DetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\FeedReader.xr.xml">
+      <PackagePath>FeedReader.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Antoni\Studia\.NET programowanie\FeedReader\FeedReader\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
